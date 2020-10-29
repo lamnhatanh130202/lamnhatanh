@@ -1,0 +1,6 @@
+hidan-kakuzu
+Thiên phú: Tăng % siêu lượng Nhạy Bén và Lực Tay, có 50% tốc độ, 40% tỉ lệ sát thương và 50% tỉ lệ miễn thương. Khi Ninja này trên trận tăng hàng giữa 40% tỉ lệ miễn thương và giảm toàn quân địch 25% tốc độ và 35% tỉ lệ sát thương. Mỗi giảm 10% máu, tăng 10% tỉ lệ miễn thương. Miễn dịch Giam cầm Giảm Nộ, bỏ qua Siêu Né. (2 CS kích hoạt thiên phú mới)
+
+Thiên phú sau khi 2 CS: Tăng % siêu lượng Nhạy Bén và Lực Tay, có 50% tốc độ, 40% tỉ lệ sát thương và 50% tỉ lệ miễn thương. Khi Ninja này trên trận tăng hàng giữa 40% tỉ lệ miễn thương và giảm toàn quân địch 25% tốc độ và 35% tỉ lệ sát thương. Bản thân bỏ qua 40% phòng thủ địch. Sau khi bị tấn công có 60% tỉ lệ xoá hiệu ứng tiêu cực cho bản thân. Mỗi giảm 10% máu, tăng 10% tỉ lệ miễn thương. Miễn dịch Giam cầm, Giảm Nộ, bỏ qua Siêu Né.
+
+Kỹ năng: Công toàn bộ, hệ số 300%, 70% tỉ lệ khiến địch vào trạng thái khống chế 2 lượt (Hỗn loạn và Giam cầm xuất hiện 1 loại trong số đó, Tê Liệt, Chấn Nhiếp và Câm Lặng đồng thời cũng xuất hiện 1 loại trong số đó), giảm địch 30% tỉ lệ miễn thương và giảm địch 20% song công, duy trì 2 lượt, tăng toàn quân ta 25% công kích và tăng hậu quân ta 20% song phòng 2 lượt. Hồi bản thân 100 nộ, hồi phe ta ngoại trừ bản thân 30 nộ.
